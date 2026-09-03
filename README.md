@@ -2,7 +2,7 @@
 
 <img src="https://penstrike.ai/icon-512.png" width="88" height="88" alt="PenStrike" />
 
-# PenStrike
+# PenStrike AI
 
 **The most powerful autonomous AI pentest agent. Black-box by design, it attacks like a real hacker with no access to your source code.**
 
