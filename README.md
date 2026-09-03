@@ -6,7 +6,7 @@
 
 **The most powerful autonomous AI pentest agent. Black-box by design, it attacks like a real hacker with no access to your source code.**
 
-[Website](https://penstrike.ai) · [Capabilities](https://penstrike.ai/capabilities) · [Blog](https://penstrike.ai/blog) · [Request access](https://penstrike.ai/apply)
+[Website](https://penstrike.ai) · [Capabilities](https://penstrike.ai/capabilities) · [Blog](https://penstrike.ai/blog) · [Request access](https://apply.penstrike.ai/)
 
 </div>
 
