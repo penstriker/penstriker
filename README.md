@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**penstriker/penstriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<div align="center">
+<div align="center">
 
 <img src="https://penstrike.ai/icon-512.png" width="88" height="88" alt="PenStrike" />
 
@@ -43,10 +35,3 @@ PenStrike is in private access. [Request access](https://penstrike.ai/apply) and
 [Instagram](https://instagram.com/penstrike.ai) · [YouTube](https://youtube.com/@penstrike_ai) · [Telegram](https://t.me/rootstrike) · [Reddit](https://www.reddit.com/user/penstrike_ai)
 
 > PenStrike is an authorized security testing tool. Use it only against systems you own or are explicitly authorized in writing to test.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
